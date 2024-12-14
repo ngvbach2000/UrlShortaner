@@ -19,6 +19,7 @@
 
     <ItemGroup>
       <Folder Include="Common\" />
+      <Folder Include="Common\Security\" />
       <Folder Include="UrlShortaners\EventHandlers\" />
     </ItemGroup>
 
